@@ -1,0 +1,17 @@
+
+// Usuarios y contraseñas creadas 
+// -> en un cocumento de verdad esto no se pone aqui, solo es por tema didactico
+// Si intentas crear un usuario que ya existe, el sistema te dira "ese usuario ya existe, crea otro usuario nuevo"
+
+Id 1
+Usuario:    Pepe
+Pass:       1234
+
+Id 2 
+Usuario:    Megalol
+Pass:       1234
+
+Id 3
+Usuario:    Eva
+Pass        1234
+

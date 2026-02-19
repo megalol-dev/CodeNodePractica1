@@ -1,0 +1,7 @@
+
+// uso PHP como server 
+Abra consola pulsado control + ñ y escriba:
+-> php -S localhost:8000 -t public
+
+// despues entra en 
+-> http://localhost:8000/index.php
