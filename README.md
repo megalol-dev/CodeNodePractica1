@@ -61,9 +61,9 @@ Además, existe un sistema de cierre de sesión que destruye la sesión y devuel
 
 ## Estructura del proyecto
 
-public/ → Archivos accesibles desde el navegador
-app/ → Lógica del servidor (conexión a BD)
-data/ → Base de datos SQLite
+- public/ → Archivos accesibles desde el navegador
+- app/ → Lógica del servidor (conexión a BD)
+- data/ → Base de datos SQLite
 
 
 La base de datos no se sube al repositorio (protegida mediante `.gitignore`).
